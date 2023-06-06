@@ -7,4 +7,4 @@ This model is based on simple assumptions.
 3. Attention is good.
 4. Satisfying the prior constraints, Occam's razor applies.
 
-RNNs have O(n) sequential computation step and O(n) compute time. Transformers have O(1) sequential computation steps and O(n^2) compute time. This one is a compromise offering O(logn) serial computation steps and O(nlogn) compute time.
+RNNs have O(n) sequential computation step and O(n) compute cost. Transformers have O(1) sequential computation steps and O(n^2) compute cost. This one is a compromise offering O(logn) serial computation steps and O(nlogn) compute cost.
